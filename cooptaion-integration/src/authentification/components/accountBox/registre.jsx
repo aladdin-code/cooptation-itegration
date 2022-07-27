@@ -16,16 +16,16 @@ export function Registre(props) {
   return (
     <BoxContainer>
         <Input type="text" placeholder="Nom" />
-        <Marginer direction="vertical" margin={20} />
+        <Marginer direction="vertical" margin={2} />
 
         <Input type="text" placeholder="Prénom" />
-        <Marginer direction="vertical" margin={20} />
+        <Marginer direction="vertical" margin={2} />
 
         <Input type="email" placeholder="Email" />
-        <Marginer direction="vertical" margin={20} />
+        <Marginer direction="vertical" margin={2} />
 
         <Input type="Specialte" placeholder="profile" />
-        <Marginer direction="vertical" margin={20} />
+        <Marginer direction="vertical" margin={2} />
         
         
      

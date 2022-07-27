@@ -15,8 +15,6 @@ import Admin from './admin/components/RecPage';
  
 import AuthPage from './authentification/authPage';
 
- 
-
 function App() {
   return (
 
